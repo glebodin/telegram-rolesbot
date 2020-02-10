@@ -5,7 +5,7 @@ logging.basicConfig(
         level=logging.INFO)
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
-__token__ = "1029606728:AAENO9db8dYGG1n7xrNRz4XU_GaaBw-k36Q"
+__token__ = ""
 
 users = {}
 chats = {}
