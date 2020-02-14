@@ -6,7 +6,6 @@ logging.basicConfig(
         level=logging.INFO)
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
-__token__ = "1029606728:AAFTBl55fwDkEf25zz9Z1KWY7thvuTiry_g"
 
 users = {}
 logins = {}
